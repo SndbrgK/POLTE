@@ -6,7 +6,7 @@ The semantic classification - cognitive processing (n=96), emotion (n=277), and 
 
 If you use this data set in your project or publication, please cite: TBA
 
-Contributors <br>
+<b>Contributors</b> <br>
 Kirsi Sandberg, Tampere University<br>
 Mykola Andrushchenko, Tampere University
 
