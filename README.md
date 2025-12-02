@@ -10,5 +10,6 @@ Kirsi Sandberg, Tampere University
 Mykola Andrushchenko, Tampere yliopisto
 
 Political Temporalities (POLTE)
-<link="https://projects.tuni.fi/polte/"> Narrating Continuity and Change in the Finnish Parliament from the Cold War to Covid-19</link>
+Narrating Continuity and Change in the Finnish Parliament from the Cold War to Covid-19
+https://projects.tuni.fi/polte/
 
