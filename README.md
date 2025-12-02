@@ -8,7 +8,8 @@ If you use this data set in your project or publication, please cite: TBA
 
 Contributors <br>
 Kirsi Sandberg, Tampere University<br>
-Mykola Andrushchenko, Tampere yliopisto
+Mykola Andrushchenko, Tampere University
+
 
 <b>Political Temporalities (POLTE)</b>
 Narrating Continuity and Change in the Finnish Parliament from the Cold War to Covid-19
