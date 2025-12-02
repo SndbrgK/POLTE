@@ -15,3 +15,5 @@ Mykola Andrushchenko, Tampere University
 Narrating Continuity and Change in the Finnish Parliament from the Cold War to Covid-19
 https://projects.tuni.fi/polte/
 
+
+Andrushchenko, Mykola, Kirsi Sandberg, Risto Turunen, Jani Marjanen, Mari Hatavara, Jussi Kurunmäki, Timo Nummenmaa, Matti Hyvärinen, Kari Teräs, Jaakko Peltonen, and Jyrki Nummenmaa. 2021. “Using Parsed and Annotated Corpora to Analyze Parliamentarians’ Talk in Finland.” Journal of the Association for Information Science and Technology 73 (2): 288–302. https://doi.org/10.1002/asi.24500
