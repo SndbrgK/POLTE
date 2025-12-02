@@ -18,4 +18,4 @@ https://projects.tuni.fi/polte/
 
 Andrushchenko, Mykola, Kirsi Sandberg, Risto Turunen, Jani Marjanen, Mari Hatavara, Jussi Kurunmäki, Timo Nummenmaa, Matti Hyvärinen, Kari Teräs, Jaakko Peltonen, and Jyrki Nummenmaa. 2021. “Using Parsed and Annotated Corpora to Analyze Parliamentarians’ Talk in Finland.” Journal of the Association for Information Science and Technology 73 (2): 288–302. https://doi.org/10.1002/asi.24500
 
-* https://www.parliament.fi/FI/naineduskuntatoimii/kirjasto/aineistot/eduskunta/arkistonaineistot-tietopaketti/Sivut/Veteraanikansanedustajien-muistitietoarkisto.aspx?
+*https://www.parliament.fi/FI/naineduskuntatoimii/kirjasto/aineistot/eduskunta/arkistonaineistot-tietopaketti/Sivut/Veteraanikansanedustajien-muistitietoarkisto.aspx?
