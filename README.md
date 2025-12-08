@@ -6,7 +6,7 @@ The semantic classification - cognitive processing (n=96), emotion (n=277), and 
 
 If you use this data set in your project or publication, please cite:
 
-<ul>Lexicon for speech act verbs</ul>ul>
+Lexicon for speech act verbs
 Hatavara, Mari, Kirsi Sandberg, Mykola Andrushchenko, Sari Hälikkö, Jyrki Nummenmaa, Timo Nummenmaa, Jaakko Peltonen, and Matti Hyvärinen. 2024. “Computational Recognition of Narratives: Applying Narratological Definitions to the Analysis of Political Language Use.” Narrative Inquiry 34 (2): 335–363. https://doi.org/10.1075/ni.22028.hat
 
 
